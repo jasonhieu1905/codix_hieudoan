@@ -7,3 +7,6 @@ To run project
 1. Pull sources code
 2. Start index.html with any web server.
 
+
+Video demo : codix.mp4
+Live URL : https://codix-hieudoan.firebaseapp.com
